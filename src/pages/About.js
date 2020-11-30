@@ -29,8 +29,8 @@ function About() {
                 <div className="row">
                   <p>A meticulous Web Developer & QA Tester with comprehensive training in Full Stack Web Development and QA Testing for Web-based applications. Possesses exceptional skills in data analyzing & technology management. Efficient in a fast-paced environment and an excellent communicator. Technical skills and interests include Ruby, algorism, data analysis, machine learning, and balancing creativity with functionality & technology.</p>
                   <div className="mt-3">
-                    <a href={Resume} download="Resume.pdf" className="btn btn-default">
-                      Download CV
+                    <a href={Resume} download="Resume.pdf" className="btn btn-primary">
+                      Download Resume
                     </a>
                   </div>
                 </div>
