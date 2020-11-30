@@ -48,6 +48,7 @@ function Works() {
 
   useEffect(() => {
     setVisibleItems(getAllItems.filter((item) => item.id <= dataVisibleCount));
+     // eslint-disable-next-line
   }, []);
 
   return (

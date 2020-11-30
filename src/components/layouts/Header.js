@@ -64,7 +64,7 @@ function Header({ light, logoSource, bootstrapNav }) {
               </li>
               <li className="nav-item">
                 <a href="https://arafrahman.com/" 
-                  className="nav-link" target="_blank">
+                  className="nav-link" target="_blank" rel="noopener noreferrer">
                   Blog
                 </a>
               </li>

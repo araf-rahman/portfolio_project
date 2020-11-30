@@ -38,16 +38,16 @@ function Home(props) {
         
             <li className="list-inline-item">
               <a href="https://www.linkedin.com/in/arafrahman">
-                <i className="fab fa-linkedin" target="_blank"></i>
+                <i className="fab fa-linkedin" target="_blank" rel="noopener noreferrer"></i>
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://github.com/araf-rahman" target="_blank">
+              <a href="https://github.com/araf-rahman" target="_blank" rel="noopener noreferrer"> 
                 <i className="fab fa-github"></i>
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://twitter.com/ArafKingman">
+              <a href="https://twitter.com/ArafKingman" rel="noopener noreferrer">
                 <i className="fab fa-twitter"></i>
               </a>
             </li>

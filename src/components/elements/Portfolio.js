@@ -33,6 +33,7 @@ function Portfolio({ portfolio }) {
       <a
         href={link ? link : "!#"}
         target="_blank"
+        rel="noopener noreferrer"
         className="work-image"
         onClick={handleLightbox}
       >
