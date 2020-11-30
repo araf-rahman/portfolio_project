@@ -28,7 +28,7 @@ const allData = [
   {
     id: 4,
     title: "Design Pad",
-    image: "images/Project/DesignPad.png",
+    image: "images/DesignPad.png",
     link: "https://github.com/araf-rahman/design-pad",
     language: "React",
   },
