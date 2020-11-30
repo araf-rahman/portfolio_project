@@ -7,21 +7,21 @@ const allData = [
   {
     id: 1,
     title: "Spotify Fellowship CRUD App",
-    image: "images/Project/Spotify.png",
+    image: "images/Spotify.png",
     link: "https://araf.herokuapp.com",
     language: "Ruby, Sinatra, Postgress",
   },
   {
     id: 2,
     title: "CMP 420 Data Management App",
-    image: "images/Project/CMP420.png",
+    image: "images/CMP420.png",
     link:"https://cmp420.herokuapp.com",
     language: "Rails, Postgress",
   },
   {
     id: 3,
     title: "FavLinks",
-    image: "images/Project/HW2.gif",
+    image: "images/HW2.gif",
     link: "https://github.com/araf-rahman/cmp464_react_Proj2",
     language: "React",
   },
@@ -35,7 +35,7 @@ const allData = [
   {
     id: 5,
     title: "Lacuna-School-Share",
-    image: "images/Project/LSS.png",
+    image: "images/LSS.png",
     link: "https://github.com/araf-rahman/Lacuna-School-Share",
     language: "React and MongoDB",
   },
