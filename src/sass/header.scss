@@ -10,12 +10,6 @@
 		padding: 0;
 	}
 
-	.navbar-brand {
-		padding-top: 0;
-		padding-right: 2;
-		padding-bottom: 0;
-	}
-
 	.navbar-dark .navbar-nav .nav-link {
 		color: #FFF;
 	}
@@ -33,31 +27,6 @@
 		&:hover {
 			color: $coloryellow !important;
 		}
-	}
-
-	.dropdown-menu {
-		position: absolute;
-		top: 100%;
-		left: 0;
-		z-index: 1000;
-		float: left;
-		min-width: 10rem;
-		padding: .5rem 0;
-		margin: .125rem 0 0;
-		font-size: 1rem;
-		color: #212529;
-		text-align: left;
-		list-style: none;
-		background-color: #fff;
-		background-clip: padding-box;
-		border: 0;
-		border-radius: .25rem;
-		@extend .shadow-dark;
-	}
-
-	button.navbar-toggler:focus {
-		outline: 0;
-		outline: 0;
 	}
 
 	.navbar-nav li:not(:last-child) {

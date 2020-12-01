@@ -109,6 +109,10 @@ only screen and (min-device-pixel-ratio: 1.5){
 			}
 		}
 	}
+	img {
+		max-width: 60%;
+		height: auto;
+	}
 }
 
 @media only screen and (min-width: 768px) {
@@ -143,6 +147,10 @@ only screen and (min-device-pixel-ratio: 1.5){
 			display: block;
 			padding: 5px 0;
 		}
+	}
+	img {
+		max-width: 60%;
+		height: auto;
 	}
 }
 
