@@ -109,12 +109,20 @@ section.home {
 		}
 	}
 }
+.pheader{
+	font-size: 36px;
+	margin: 0;
+	margin-left: 0px;
+	position: relative;
+	text-align: center;
+}
 
 .section-title {
 	font-size: 36px;
 	margin: 0;
 	margin-left: 0px;
 	position: relative;
+	
 
 	&:before {
 		content: '';

@@ -39,9 +39,7 @@ function Portfolio({ portfolio }) {
       >
         <div className="portfolio-item rounded shadow-dark">
           <div className="details">
-            {/* <span className="term text-capitalize">{category}</span> */}
             <h4 className="title">{title}</h4>
-  
             <span className="more-button">{handleIcon()}</span>
           </div>
           

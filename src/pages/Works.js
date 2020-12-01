@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Portfolio from "../components/elements/Portfolio";
-import Header from "../components/layouts/Header"
-import Pagetitle from "../components/elements/Pagetitle";
+import Header from "../components/layouts/Header";
 
 const allData = [
   {
@@ -53,7 +52,8 @@ function Works() {
 
   return (
     <section id="works">
-       <Pagetitle title="Portfolio Projects" />
+       <h2 className="pheader">Portfolio Projects</h2>
+       <br />
       <div className="container">
          <Header light/>
         <div className="row portfolio-wrapper">
