@@ -113,7 +113,7 @@ section.home {
 .section-title {
 	font-size: 36px;
 	margin: 0;
-	margin-left: 14px;
+	margin-left: 0px;
 	position: relative;
 
 	&:before {
@@ -298,7 +298,7 @@ select.portfolio-filter-mobile {
 	// background-image: url('/images/map.svg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	min-height: 200px;
+	min-height: 80px;
 
 	h3 {
 		font-size: 23px;
@@ -324,7 +324,7 @@ select.portfolio-filter-mobile {
 
 
 	&[data-height='60'] {
-		height: 60px;
+		height: 20px;
 	}
 
 	&[data-height='70'] {
