@@ -147,7 +147,7 @@ function Contact() {
                 name="submit"
                 id="submit"
                 value="Submit"
-                className="btn btn-default"
+                className="btn btn-primary"
               >
                 Send Message
               </button>
