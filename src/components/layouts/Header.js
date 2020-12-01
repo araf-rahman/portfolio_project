@@ -25,11 +25,9 @@ function Header({ light, logoSource, bootstrapNav }) {
       }
     >
       <div className="container">
-        
         <nav className="navbar navbar-expand-lg navbar-dark">
           <button
             aria-controls="navbarNavDropdown"
-
             aria-expanded="false"
             aria-label="Toggle navigation"
             className="navbar-toggler"
@@ -54,21 +52,19 @@ function Header({ light, logoSource, bootstrapNav }) {
               <li className="nav-item">
                 <Link className="nav-link" to="/Home">Home</Link>
               </li>
-
               <li className="nav-item">
                 <Link className="nav-link" to="/About">About</Link>
               </li>
-
               <li className="nav-item">
                 <Link className="nav-link" to="/Works">Projects</Link>
               </li>
+  
               <li className="nav-item">
                 <a href="https://arafrahman.com/" 
                   className="nav-link" target="_blank" rel="noopener noreferrer">
                   Blog
                 </a>
               </li>
-
               <li className="nav-item">
                 <Link className="nav-link" to="/Contact">Contact</Link>
               </li>

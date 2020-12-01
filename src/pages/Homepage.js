@@ -3,7 +3,6 @@ import Header from "../components/layouts/Header";
 import Footer from "../components/layouts/Footer";
 import Home from "../components/sections/Home";
 
-
 function Homepage() {
   return (
     <>
