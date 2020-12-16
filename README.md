@@ -1,4 +1,4 @@
-# Simple React App to Save Favorite URL
+# React Portfolio project
 
 ## Link to heroku app
 https://araf-portfolio.herokuapp.com/
