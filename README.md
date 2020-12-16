@@ -1,5 +1,8 @@
 # Simple React App to Save Favorite URL
 
+## Link to heroku app
+https://araf-portfolio.herokuapp.com/
+
 ## How to run app locally
 0) Open the terminal and navigate to a safe file destination (ex: run command `cd ~/Desktop`)
 1) In the terminal run the command: `git clone https://github.com/araf-rahman/portfolio_project.git`
